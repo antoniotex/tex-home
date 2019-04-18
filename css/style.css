@@ -136,21 +136,21 @@ ul li:nth-child(3):hover{
 
 .image1{
     height: 100vh;
-    background-image: url('./images/DT3sports.jpg');
+    background-image: url('images/DT3sports.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .image2{
     height: 100vh;
-    background-image: url('./images/DT3office.jpg');
+    background-image: url('images/DT3office.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .image3{
     height: 100vh;
-    background-image: url('./images/DT3racing.jpg');
+    background-image: url('images/DT3racing.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
